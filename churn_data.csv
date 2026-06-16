@@ -1,0 +1,1001 @@
+CustomerID,Age,Tenure_Months,Monthly_Charges,Total_Charges,Num_Products,Has_CreditCard,Is_Active_Member,Contract_Type,Payment_Method,Churn
+1,56,15,55.16,2465.23,2,0,0,One Year,Cash,0
+2,69,64,30.14,2933.85,4,0,1,Two Year,Cash,0
+3,46,28,68.59,6455.05,2,0,1,One Year,Credit Card,0
+4,32,39,45.68,2302.2,4,1,0,One Year,Bank Transfer,0
+5,60,57,48.49,1764.57,4,0,0,One Year,Credit Card,0
+6,25,17,50.73,7663.84,3,1,0,Two Year,Credit Card,0
+7,38,44,100.3,170.02,1,1,0,One Year,Cash,0
+8,56,25,73.92,7982.78,4,1,0,One Year,UPI,0
+9,36,17,51.13,5446.89,3,1,1,Month-to-Month,Bank Transfer,0
+10,40,13,81.03,6644.91,1,0,1,One Year,UPI,0
+11,28,25,91.62,2427.49,2,1,0,One Year,Cash,0
+12,28,68,47.26,213.09,1,0,0,Month-to-Month,Cash,0
+13,41,10,61.35,5929.17,4,1,0,Month-to-Month,Cash,1
+14,53,67,32.19,6689.74,4,0,1,Two Year,Cash,0
+15,57,18,38.11,5949.76,4,0,0,One Year,Cash,0
+16,41,34,88.11,1228.52,4,1,0,Two Year,Cash,0
+17,20,8,38.14,6052.08,4,1,1,Two Year,UPI,1
+18,39,40,72.52,6174.49,3,1,1,Month-to-Month,Credit Card,0
+19,19,42,90.9,5302.47,4,0,1,Two Year,UPI,1
+20,41,41,30.69,6152.32,3,1,1,One Year,Bank Transfer,0
+21,61,6,76.73,6782.78,2,1,0,Month-to-Month,UPI,0
+22,47,52,45.66,4947.47,4,0,1,One Year,Cash,1
+23,55,26,116.29,799.98,4,1,1,One Year,UPI,0
+24,19,64,68.35,3952.26,1,0,0,Month-to-Month,Credit Card,0
+25,38,59,100.6,713.43,2,1,0,One Year,Bank Transfer,1
+26,50,56,75.02,3319.59,4,0,0,Month-to-Month,UPI,1
+27,29,59,24.34,3316.14,4,0,1,One Year,Credit Card,0
+28,39,70,83.32,621.48,2,1,0,Month-to-Month,UPI,0
+29,61,33,115.14,2855.68,3,0,1,Two Year,Bank Transfer,1
+30,42,53,80.16,976.88,4,1,1,One Year,UPI,0
+31,66,22,101.92,6485.06,1,1,1,Month-to-Month,Cash,1
+32,44,21,108.42,7586.74,4,0,0,One Year,UPI,0
+33,59,70,42.81,671.3,1,1,1,One Year,Credit Card,0
+34,45,70,41.2,7645.41,1,0,0,One Year,UPI,1
+35,33,4,81.1,4228.36,4,0,0,Month-to-Month,Credit Card,0
+36,32,62,61.1,2466.57,4,0,0,Two Year,Bank Transfer,0
+37,64,62,103.99,707.21,1,0,1,Two Year,UPI,0
+38,68,24,110.0,4054.93,2,0,1,Two Year,Bank Transfer,0
+39,61,55,55.34,6376.67,2,0,1,Month-to-Month,Bank Transfer,0
+40,69,9,43.69,5685.98,4,0,0,Two Year,UPI,1
+41,20,3,98.05,496.79,3,0,1,Month-to-Month,Credit Card,0
+42,54,31,47.48,675.92,2,1,1,One Year,Bank Transfer,0
+43,68,40,102.26,3282.7,4,1,1,One Year,Bank Transfer,1
+44,24,36,62.37,2432.79,2,0,1,Two Year,UPI,0
+45,38,24,86.75,1935.84,3,1,1,Month-to-Month,UPI,0
+46,26,6,29.55,2319.94,4,1,0,One Year,UPI,0
+47,56,66,82.39,6447.51,3,1,0,Month-to-Month,UPI,1
+48,35,4,65.18,7440.9,4,1,0,Month-to-Month,UPI,0
+49,21,6,78.66,3300.31,3,1,0,One Year,Cash,0
+50,42,51,36.8,7258.28,2,1,1,Month-to-Month,UPI,0
+51,31,62,93.69,2639.82,2,0,0,One Year,Credit Card,0
+52,67,57,106.28,3863.85,3,1,1,One Year,Bank Transfer,0
+53,26,66,41.67,1885.63,3,1,0,One Year,Credit Card,0
+54,43,8,29.57,5159.76,3,1,0,Month-to-Month,Credit Card,0
+55,19,26,22.36,7833.95,4,1,0,One Year,Cash,1
+56,37,51,84.2,4867.6,2,0,1,Month-to-Month,UPI,0
+57,45,45,80.71,2926.73,4,0,1,One Year,Bank Transfer,0
+58,64,44,74.67,5217.76,2,0,0,One Year,Credit Card,0
+59,24,5,43.19,1071.07,1,0,1,Two Year,UPI,0
+60,61,70,59.09,7120.41,4,1,0,Two Year,UPI,0
+61,25,26,79.45,4074.36,2,0,0,Two Year,Cash,0
+62,64,68,69.68,3649.86,2,0,0,Month-to-Month,Cash,0
+63,52,19,118.78,4728.33,4,0,1,Month-to-Month,Cash,0
+64,31,20,33.64,5035.79,4,0,0,One Year,Bank Transfer,0
+65,34,12,89.51,667.03,2,1,0,One Year,Credit Card,0
+66,53,47,60.43,5492.68,4,0,0,One Year,Cash,0
+67,67,1,62.82,2011.26,3,1,1,One Year,Cash,0
+68,57,14,91.76,5740.23,4,0,0,Month-to-Month,Cash,0
+69,21,64,89.24,6598.02,4,1,1,One Year,Credit Card,0
+70,19,38,119.13,6451.27,4,1,0,One Year,Credit Card,0
+71,23,37,32.84,4464.76,2,0,1,Two Year,Cash,1
+72,59,11,30.41,4209.34,3,0,0,One Year,Cash,0
+73,21,3,92.43,1228.72,1,0,0,One Year,UPI,0
+74,46,33,77.84,6225.23,1,0,1,One Year,Cash,0
+75,35,6,47.42,2244.13,3,1,1,Month-to-Month,Bank Transfer,0
+76,43,50,27.94,4023.89,3,1,0,Two Year,Bank Transfer,0
+77,61,10,28.57,2345.77,3,0,1,One Year,Cash,1
+78,51,5,109.42,1157.24,2,0,0,One Year,Credit Card,0
+79,27,23,39.19,5073.51,1,1,0,Two Year,UPI,1
+80,53,10,52.34,529.22,3,0,0,One Year,Credit Card,1
+81,31,44,42.67,6014.3,2,1,1,Month-to-Month,Cash,0
+82,48,2,55.5,2608.94,1,0,0,One Year,Bank Transfer,0
+83,65,13,26.94,101.06,4,1,1,Month-to-Month,UPI,0
+84,32,40,71.91,4137.92,2,1,0,Month-to-Month,Credit Card,0
+85,25,2,26.76,470.13,1,1,1,One Year,Credit Card,1
+86,31,65,100.04,2281.74,2,1,1,Two Year,Cash,0
+87,40,63,43.37,5685.11,1,1,0,Month-to-Month,UPI,1
+88,57,17,74.0,595.25,1,0,1,Two Year,Bank Transfer,0
+89,38,9,108.01,6730.77,4,1,0,One Year,Cash,1
+90,33,15,85.09,130.18,2,0,0,Month-to-Month,UPI,1
+91,62,24,73.3,2049.91,3,1,0,One Year,Credit Card,0
+92,35,38,52.43,5953.14,4,1,0,Two Year,Cash,0
+93,64,35,53.3,2598.53,4,0,0,One Year,Credit Card,0
+94,41,49,86.95,904.95,1,0,1,One Year,Credit Card,1
+95,43,69,119.41,2945.85,3,0,0,Month-to-Month,Cash,1
+96,42,62,86.18,2236.11,2,0,1,One Year,Cash,1
+97,62,60,75.78,6757.42,3,1,1,One Year,Cash,0
+98,58,50,93.07,2575.45,3,0,0,One Year,Cash,0
+99,46,9,66.52,6332.57,3,1,1,Month-to-Month,Cash,1
+100,32,34,26.01,7145.79,3,0,0,Two Year,Credit Card,0
+101,62,35,76.23,3527.16,3,0,1,Two Year,Bank Transfer,1
+102,18,1,115.76,7288.55,1,1,1,One Year,Bank Transfer,0
+103,42,40,37.53,3080.81,1,1,1,Month-to-Month,Cash,0
+104,24,64,89.0,7716.22,4,0,0,One Year,Credit Card,0
+105,26,22,40.09,805.39,1,1,1,Two Year,Bank Transfer,0
+106,41,60,73.58,5527.45,4,1,0,Month-to-Month,Bank Transfer,0
+107,18,64,29.67,4001.13,4,1,1,Two Year,Bank Transfer,0
+108,61,11,65.04,3162.43,2,1,1,Two Year,Credit Card,0
+109,25,14,95.62,5098.42,3,1,1,Month-to-Month,Cash,0
+110,41,60,54.76,5660.47,1,1,1,Month-to-Month,Cash,0
+111,28,30,86.49,134.47,2,1,0,One Year,Cash,0
+112,68,35,99.54,1418.93,1,1,0,One Year,UPI,1
+113,34,37,112.72,5733.06,4,0,1,Two Year,UPI,0
+114,25,5,43.46,5364.44,1,1,1,Month-to-Month,UPI,1
+115,52,26,59.93,7731.78,3,0,0,Month-to-Month,Credit Card,0
+116,52,62,35.24,6112.2,4,1,0,One Year,Bank Transfer,0
+117,50,4,119.25,7611.1,4,1,0,Two Year,Bank Transfer,0
+118,22,42,112.7,5650.07,2,1,0,Two Year,Credit Card,0
+119,59,18,74.0,2454.61,3,1,1,One Year,Credit Card,0
+120,56,40,104.2,932.38,4,0,1,Month-to-Month,Cash,0
+121,58,39,72.1,6276.41,3,0,0,One Year,Cash,0
+122,45,14,82.36,5188.78,1,1,0,One Year,UPI,0
+123,24,32,28.91,480.67,3,0,0,One Year,UPI,0
+124,26,51,95.53,2944.4,4,1,0,One Year,Credit Card,0
+125,25,38,32.77,7658.72,2,1,0,Month-to-Month,UPI,0
+126,29,23,102.61,4053.17,4,0,0,One Year,Bank Transfer,0
+127,51,63,98.2,3518.56,3,0,1,Month-to-Month,Credit Card,0
+128,50,15,90.87,3715.83,3,1,1,One Year,Credit Card,0
+129,65,25,23.62,1750.17,4,1,1,Two Year,Bank Transfer,0
+130,40,17,50.31,3012.79,3,0,0,Month-to-Month,Cash,1
+131,41,66,46.31,3021.52,1,1,0,Two Year,Cash,1
+132,54,53,56.01,513.6,4,0,0,One Year,Bank Transfer,0
+133,52,51,28.76,6163.78,2,1,1,One Year,Bank Transfer,0
+134,61,39,113.7,3390.39,4,1,0,One Year,UPI,0
+135,57,51,75.38,6595.22,1,0,0,Month-to-Month,Credit Card,0
+136,39,70,50.55,6817.75,1,0,1,Two Year,UPI,0
+137,44,6,59.7,1774.75,1,0,0,Month-to-Month,Bank Transfer,0
+138,52,67,64.72,5293.09,1,1,1,Month-to-Month,UPI,0
+139,18,7,80.06,3831.03,1,1,1,One Year,Bank Transfer,0
+140,52,51,71.57,7053.24,2,1,0,Two Year,UPI,0
+141,54,42,111.94,1804.35,3,1,1,One Year,UPI,0
+142,64,64,69.7,5454.72,1,0,0,Month-to-Month,Cash,0
+143,31,15,119.22,4901.24,1,1,1,One Year,Bank Transfer,0
+144,20,29,105.14,2432.88,4,1,0,Two Year,UPI,0
+145,18,33,40.85,1179.15,2,1,1,One Year,Credit Card,0
+146,22,27,113.06,5247.95,2,0,0,Two Year,UPI,0
+147,43,36,31.64,5934.92,3,1,1,Two Year,UPI,0
+148,31,29,101.74,2593.46,2,1,1,One Year,Credit Card,0
+149,56,38,58.06,5194.18,4,0,1,Month-to-Month,Bank Transfer,1
+150,44,57,107.8,3221.53,4,1,0,One Year,Cash,0
+151,26,27,106.81,5734.33,3,1,0,Month-to-Month,Cash,1
+152,32,55,100.59,1673.8,4,0,1,Month-to-Month,Cash,0
+153,32,33,99.0,7132.7,1,1,0,One Year,Credit Card,0
+154,43,68,50.47,2370.54,1,1,1,Month-to-Month,UPI,0
+155,59,66,28.09,3005.51,4,1,0,Month-to-Month,Bank Transfer,0
+156,30,10,60.3,558.93,3,0,1,One Year,UPI,0
+157,68,5,37.35,980.95,2,1,0,One Year,Cash,0
+158,49,38,89.5,4175.31,3,1,1,One Year,UPI,1
+159,56,13,54.61,2213.98,2,0,1,Month-to-Month,Credit Card,1
+160,66,31,117.56,6700.29,4,0,1,Two Year,Credit Card,0
+161,69,47,84.1,216.08,4,1,1,Month-to-Month,Bank Transfer,0
+162,49,52,102.25,3094.84,1,1,0,Two Year,Bank Transfer,0
+163,21,56,33.25,2765.03,2,1,1,One Year,Cash,0
+164,47,15,106.2,252.69,3,1,0,Two Year,Bank Transfer,1
+165,54,29,112.28,1082.51,4,0,0,One Year,UPI,1
+166,40,8,68.71,3367.78,3,1,1,One Year,Credit Card,1
+167,56,5,80.63,3993.63,1,0,0,Two Year,Credit Card,0
+168,62,29,96.48,3293.89,2,0,0,One Year,Credit Card,0
+169,32,47,37.48,4294.41,2,1,0,Two Year,Bank Transfer,0
+170,60,68,70.26,4801.54,4,1,1,One Year,Credit Card,1
+171,46,45,59.87,178.4,2,0,0,Month-to-Month,Credit Card,0
+172,53,2,34.64,3766.35,4,0,0,Month-to-Month,Credit Card,0
+173,30,27,56.75,7711.64,1,1,1,One Year,Cash,0
+174,49,36,26.82,4200.36,2,0,1,One Year,Cash,1
+175,24,36,22.58,5452.58,4,1,0,Two Year,Bank Transfer,0
+176,68,26,33.52,2563.72,3,1,1,Month-to-Month,Credit Card,0
+177,39,43,116.31,6214.53,4,0,0,Two Year,Bank Transfer,1
+178,45,27,74.95,6206.08,2,0,0,One Year,Credit Card,1
+179,19,69,116.58,4218.24,1,1,0,One Year,Credit Card,0
+180,59,20,63.25,7810.51,2,0,1,Two Year,Credit Card,0
+181,62,11,51.18,1091.85,2,1,0,One Year,Bank Transfer,1
+182,23,38,70.61,233.89,4,1,1,Month-to-Month,Bank Transfer,1
+183,45,6,63.95,6184.25,3,1,1,Two Year,Credit Card,0
+184,45,23,30.57,6476.53,2,0,0,Month-to-Month,UPI,0
+185,61,47,84.08,1049.64,3,1,1,Month-to-Month,Bank Transfer,0
+186,61,46,41.6,2198.1,4,1,1,Month-to-Month,Cash,1
+187,37,12,81.96,238.66,3,1,1,Two Year,Bank Transfer,0
+188,47,13,85.02,2417.14,4,1,1,One Year,Credit Card,0
+189,28,62,35.2,6207.82,1,1,1,Month-to-Month,UPI,0
+190,45,60,26.13,4191.89,3,1,0,Month-to-Month,Credit Card,1
+191,42,43,98.08,2849.96,3,1,1,Month-to-Month,Cash,0
+192,56,68,65.98,3036.74,1,1,0,One Year,Bank Transfer,0
+193,50,5,25.82,110.69,3,1,0,One Year,Bank Transfer,0
+194,18,37,119.49,2468.42,1,1,0,Two Year,Credit Card,0
+195,44,31,25.78,5207.02,2,1,0,One Year,Credit Card,0
+196,69,9,89.5,7796.14,4,0,0,Two Year,Cash,0
+197,30,51,118.37,6791.78,1,1,0,Two Year,UPI,0
+198,58,29,43.92,286.4,3,1,1,Two Year,Cash,1
+199,20,40,34.22,7198.63,1,1,1,Two Year,UPI,0
+200,56,41,32.14,6287.27,3,0,1,Two Year,Bank Transfer,0
+201,23,11,50.33,6264.97,2,1,0,Month-to-Month,UPI,0
+202,25,23,30.1,3718.17,1,0,1,One Year,UPI,0
+203,44,1,89.22,3244.24,2,1,1,Month-to-Month,Bank Transfer,0
+204,26,46,26.23,2493.03,4,1,1,Two Year,Bank Transfer,1
+205,54,21,70.94,618.99,3,0,0,One Year,Bank Transfer,0
+206,50,36,119.67,1903.06,3,1,1,Month-to-Month,Cash,0
+207,68,54,101.4,2048.17,2,0,0,Month-to-Month,Bank Transfer,1
+208,59,57,81.52,3924.21,4,0,1,Two Year,Credit Card,0
+209,61,1,50.63,6004.81,1,1,0,Month-to-Month,Bank Transfer,1
+210,41,63,82.39,3843.1,1,1,0,Month-to-Month,Bank Transfer,0
+211,32,54,72.7,556.97,3,1,0,Month-to-Month,Bank Transfer,0
+212,49,55,62.61,7666.54,2,1,1,Month-to-Month,UPI,0
+213,49,40,33.07,7547.52,2,0,1,Month-to-Month,Cash,0
+214,41,15,108.66,6303.0,1,0,0,Two Year,Bank Transfer,0
+215,58,21,64.98,7931.49,4,1,1,Two Year,Cash,0
+216,69,47,39.46,4401.41,4,0,0,Month-to-Month,Credit Card,0
+217,66,53,56.78,7705.87,1,0,0,Two Year,Credit Card,1
+218,66,9,61.41,697.28,1,1,1,Two Year,Bank Transfer,0
+219,69,52,102.75,2988.88,2,0,1,One Year,Credit Card,1
+220,29,57,93.36,1880.51,4,0,1,Month-to-Month,Cash,0
+221,56,26,96.93,1647.08,1,1,0,Two Year,UPI,0
+222,19,41,21.1,1212.34,1,0,0,Two Year,Bank Transfer,1
+223,20,35,61.62,5017.07,3,1,1,Month-to-Month,Credit Card,0
+224,66,63,68.13,6272.44,1,0,0,One Year,Cash,1
+225,54,25,21.92,4668.56,1,1,1,Month-to-Month,Cash,0
+226,66,38,45.98,1261.01,4,0,0,One Year,Credit Card,0
+227,34,2,96.03,6507.88,2,0,1,Month-to-Month,Cash,0
+228,66,7,33.71,5124.04,4,1,1,Month-to-Month,Cash,0
+229,19,34,73.53,3166.51,2,1,0,Month-to-Month,Bank Transfer,0
+230,19,17,41.52,5425.63,3,1,1,Month-to-Month,Cash,0
+231,45,43,21.21,2153.25,1,1,1,One Year,Credit Card,0
+232,40,59,44.12,2827.02,3,0,0,One Year,Bank Transfer,0
+233,54,51,117.59,7348.14,2,0,1,Two Year,Credit Card,0
+234,49,54,100.15,2394.99,4,0,0,Month-to-Month,UPI,0
+235,50,24,115.96,3812.91,4,1,1,One Year,Credit Card,0
+236,18,25,68.79,7132.11,3,0,0,One Year,Credit Card,1
+237,36,71,30.97,5691.0,2,0,1,One Year,Bank Transfer,1
+238,19,52,74.8,591.41,3,1,1,Month-to-Month,Cash,0
+239,61,70,65.44,1263.69,3,1,1,Two Year,Credit Card,1
+240,43,33,104.44,161.95,1,0,1,One Year,Bank Transfer,0
+241,49,49,29.81,5084.28,3,1,0,Month-to-Month,UPI,1
+242,23,29,68.82,3636.62,1,0,0,One Year,Bank Transfer,0
+243,49,63,35.0,1160.77,1,0,0,One Year,Bank Transfer,0
+244,21,22,52.47,7667.68,4,1,0,Two Year,Cash,0
+245,28,26,93.74,4284.31,1,0,0,One Year,Credit Card,0
+246,34,28,67.6,2010.96,1,1,0,One Year,UPI,0
+247,55,49,57.59,4054.77,4,1,0,Month-to-Month,Bank Transfer,0
+248,41,71,59.45,5469.0,3,0,1,Month-to-Month,Credit Card,1
+249,22,49,65.94,702.29,2,0,1,Two Year,Credit Card,0
+250,69,20,98.5,2270.16,2,0,1,Month-to-Month,Bank Transfer,0
+251,51,63,109.21,6475.03,2,1,1,Month-to-Month,Credit Card,0
+252,23,61,115.53,3731.35,3,0,0,Two Year,Bank Transfer,0
+253,39,49,98.69,4417.96,1,1,0,One Year,Bank Transfer,0
+254,28,71,51.54,3519.25,2,1,0,Two Year,Bank Transfer,0
+255,65,1,88.81,446.81,3,0,1,Month-to-Month,UPI,0
+256,33,13,63.76,1409.42,1,1,0,Two Year,Bank Transfer,0
+257,50,51,45.47,3619.78,4,0,1,One Year,Cash,0
+258,26,56,104.09,1752.57,2,0,0,Two Year,Credit Card,1
+259,23,62,23.84,494.83,1,0,0,Month-to-Month,UPI,1
+260,33,32,110.18,6764.83,2,0,0,Month-to-Month,Credit Card,0
+261,46,30,66.15,7851.42,2,0,0,Two Year,UPI,0
+262,20,29,83.72,6365.83,2,0,1,One Year,Cash,0
+263,37,49,85.94,6844.9,1,0,1,Two Year,UPI,0
+264,53,45,109.51,2011.62,3,1,0,One Year,UPI,0
+265,36,30,83.67,7688.95,1,0,1,One Year,UPI,0
+266,43,16,81.39,1655.71,2,1,0,Two Year,Credit Card,1
+267,20,40,26.67,7616.3,1,1,0,One Year,Bank Transfer,0
+268,36,19,71.84,7959.07,4,1,0,Month-to-Month,Credit Card,0
+269,37,18,35.02,5722.61,3,0,0,Two Year,Bank Transfer,0
+270,49,1,93.74,7851.04,1,1,1,One Year,Credit Card,0
+271,24,47,71.22,4599.36,4,1,0,Month-to-Month,Cash,0
+272,69,66,88.02,2150.38,3,0,0,Two Year,Cash,0
+273,58,38,24.17,3552.27,4,0,1,Month-to-Month,UPI,0
+274,50,51,28.48,4789.13,3,1,0,Month-to-Month,Cash,0
+275,57,63,91.63,677.34,1,0,1,Month-to-Month,UPI,0
+276,56,4,27.21,5016.51,4,0,0,One Year,Bank Transfer,0
+277,35,1,27.13,7851.3,2,0,0,Two Year,Cash,0
+278,57,8,21.21,1601.85,4,0,0,Two Year,Bank Transfer,0
+279,18,29,115.65,6361.5,3,1,0,One Year,Credit Card,0
+280,28,55,93.75,7272.4,1,0,0,Two Year,Bank Transfer,1
+281,45,3,55.33,7555.24,3,0,0,Month-to-Month,Credit Card,0
+282,42,32,49.65,7685.07,4,0,1,Two Year,Bank Transfer,1
+283,67,10,54.97,4219.53,4,1,0,One Year,Bank Transfer,1
+284,40,34,97.47,7820.73,2,1,1,Month-to-Month,Cash,0
+285,48,55,86.14,6082.75,1,0,1,One Year,Bank Transfer,0
+286,47,32,38.52,1377.2,1,0,0,Month-to-Month,Cash,1
+287,59,50,37.41,3867.51,4,1,1,Month-to-Month,Cash,0
+288,52,7,29.84,5774.82,1,0,0,Two Year,UPI,0
+289,24,8,86.03,2053.99,2,0,1,Month-to-Month,UPI,1
+290,33,65,96.44,5160.86,3,1,0,One Year,Credit Card,0
+291,43,57,46.5,5366.14,1,0,1,Two Year,Bank Transfer,0
+292,65,67,22.09,1385.33,4,0,1,One Year,Credit Card,0
+293,69,59,28.22,4564.17,3,1,0,Month-to-Month,Bank Transfer,1
+294,66,54,116.79,6195.85,3,1,1,One Year,UPI,0
+295,19,67,49.54,4041.28,2,0,0,One Year,UPI,0
+296,18,51,96.92,195.61,4,1,0,Month-to-Month,Bank Transfer,1
+297,65,8,82.47,171.4,1,0,0,Two Year,Bank Transfer,0
+298,29,34,58.19,2920.53,4,0,0,One Year,UPI,0
+299,22,35,40.57,7416.93,3,0,0,Month-to-Month,UPI,0
+300,54,32,32.14,1906.55,4,1,1,Two Year,Credit Card,0
+301,49,46,81.5,5111.47,1,1,1,Two Year,UPI,0
+302,26,16,97.46,1854.4,1,0,1,Two Year,Bank Transfer,0
+303,58,68,84.39,2641.19,2,0,0,One Year,Credit Card,0
+304,52,37,73.03,6799.53,1,1,1,One Year,Bank Transfer,1
+305,36,54,24.2,5858.01,1,1,1,One Year,Cash,0
+306,65,14,116.85,853.65,4,1,1,Two Year,Credit Card,0
+307,33,55,99.87,3486.75,4,0,1,One Year,Bank Transfer,0
+308,20,48,49.28,330.44,3,1,1,Month-to-Month,UPI,1
+309,37,7,118.0,3899.03,2,1,0,One Year,Cash,0
+310,41,7,80.19,5333.23,4,0,0,One Year,Bank Transfer,0
+311,50,33,78.24,1036.17,1,0,1,Two Year,Credit Card,0
+312,41,23,94.81,2382.19,3,0,0,One Year,Bank Transfer,0
+313,69,19,101.18,3242.91,4,1,0,Month-to-Month,Cash,0
+314,28,19,85.65,7364.3,2,0,1,Two Year,Credit Card,0
+315,66,36,32.81,7946.71,2,0,1,Month-to-Month,Cash,0
+316,25,29,53.83,454.8,3,0,0,Two Year,Bank Transfer,1
+317,53,60,112.81,6111.96,3,0,1,Two Year,UPI,0
+318,55,2,42.46,3036.62,3,1,0,One Year,UPI,0
+319,57,1,57.22,3200.42,3,0,0,Month-to-Month,Bank Transfer,0
+320,37,47,63.21,6058.69,3,1,1,Two Year,Bank Transfer,1
+321,52,69,63.94,7355.57,1,1,0,One Year,Bank Transfer,0
+322,65,20,81.29,7612.34,1,1,0,Two Year,Credit Card,1
+323,42,11,114.31,4659.27,4,0,0,Two Year,Cash,1
+324,52,2,44.07,2921.26,2,1,1,Two Year,Cash,0
+325,42,67,32.15,6321.64,1,0,1,Two Year,Cash,0
+326,46,12,39.75,2082.91,1,0,1,Two Year,Bank Transfer,0
+327,35,20,108.69,4556.18,1,0,1,Two Year,Cash,0
+328,63,5,84.58,2932.77,4,1,0,One Year,Bank Transfer,0
+329,35,37,48.59,5287.39,3,0,1,Two Year,Credit Card,0
+330,19,38,101.59,1999.15,4,0,1,Month-to-Month,UPI,1
+331,52,9,106.14,1613.58,2,0,1,One Year,Bank Transfer,0
+332,33,53,104.65,7354.09,2,1,1,Month-to-Month,Bank Transfer,1
+333,58,44,111.89,904.25,2,1,0,Two Year,UPI,0
+334,53,24,45.22,4097.07,2,1,0,Month-to-Month,UPI,0
+335,50,30,95.5,1844.74,1,0,0,Two Year,Credit Card,1
+336,21,59,66.05,407.55,1,1,1,Two Year,Cash,0
+337,50,14,104.2,384.55,4,0,1,One Year,Bank Transfer,0
+338,31,9,92.85,1484.25,3,0,0,One Year,Cash,0
+339,38,40,97.64,6947.49,2,1,1,Two Year,Bank Transfer,0
+340,65,66,85.62,2331.58,4,0,1,One Year,Credit Card,0
+341,37,25,37.74,7608.63,1,1,0,Month-to-Month,UPI,0
+342,25,22,74.5,4694.82,1,0,0,One Year,Credit Card,0
+343,24,4,118.47,3549.25,3,1,1,One Year,UPI,1
+344,20,26,113.74,4682.7,3,0,1,Month-to-Month,Cash,0
+345,34,58,24.32,4181.92,3,0,1,One Year,Cash,1
+346,50,29,36.48,6094.33,4,0,0,Two Year,Credit Card,0
+347,65,37,33.17,2331.72,1,0,0,Month-to-Month,UPI,0
+348,29,70,92.6,2889.1,1,0,0,Two Year,Credit Card,0
+349,68,18,101.78,7163.34,3,1,0,Month-to-Month,UPI,0
+350,39,42,41.35,7577.01,2,0,1,Two Year,UPI,1
+351,39,41,70.59,7151.21,3,1,0,Two Year,Cash,0
+352,63,38,104.07,3413.64,4,1,0,One Year,Cash,0
+353,47,34,93.28,6264.89,3,1,1,Two Year,UPI,0
+354,55,17,74.22,3863.05,3,0,1,One Year,UPI,0
+355,55,37,79.03,4030.56,4,0,1,Month-to-Month,UPI,1
+356,62,25,70.84,1716.97,3,0,0,Two Year,Cash,1
+357,68,27,49.75,4769.93,1,1,1,Two Year,Cash,0
+358,25,57,76.5,1570.47,2,0,1,Month-to-Month,Bank Transfer,0
+359,44,31,88.89,2719.36,3,0,0,Month-to-Month,UPI,0
+360,44,6,107.33,6854.74,4,1,0,Two Year,Bank Transfer,0
+361,51,40,83.63,1735.9,2,1,1,Month-to-Month,UPI,1
+362,38,12,96.11,662.15,4,1,0,One Year,Cash,0
+363,47,53,36.01,645.16,2,1,1,Month-to-Month,Bank Transfer,0
+364,50,71,66.16,7532.2,2,1,1,Month-to-Month,Bank Transfer,0
+365,45,10,20.93,4104.67,3,1,0,Two Year,Credit Card,1
+366,64,45,44.67,3334.36,1,0,1,One Year,UPI,0
+367,50,17,92.65,6505.94,3,1,0,Month-to-Month,Cash,0
+368,22,26,119.18,6703.02,4,0,0,One Year,Credit Card,0
+369,65,62,29.92,2724.31,4,0,0,One Year,Credit Card,0
+370,36,46,60.15,5579.58,2,0,1,One Year,UPI,1
+371,21,64,100.01,6191.87,2,1,0,Two Year,Credit Card,0
+372,52,2,40.4,5271.74,1,0,0,Month-to-Month,UPI,0
+373,66,54,75.51,1297.6,3,1,1,Two Year,Credit Card,0
+374,34,65,93.31,7019.48,4,1,1,Month-to-Month,UPI,0
+375,61,51,81.6,4358.85,2,0,1,Month-to-Month,Cash,0
+376,45,53,38.8,2331.53,1,1,1,Two Year,UPI,0
+377,47,36,55.54,3459.3,4,0,0,One Year,UPI,0
+378,46,26,98.38,396.81,2,0,0,One Year,Bank Transfer,0
+379,63,29,75.42,1110.15,4,1,0,Month-to-Month,Cash,0
+380,23,21,20.52,6147.82,1,0,1,Two Year,Cash,1
+381,52,11,96.1,100.09,1,0,1,One Year,Cash,0
+382,58,40,23.53,3390.87,4,0,0,One Year,Credit Card,0
+383,54,11,94.57,4227.83,3,1,1,Month-to-Month,Bank Transfer,0
+384,41,36,40.25,531.61,4,0,1,Month-to-Month,Cash,0
+385,46,59,115.81,7787.32,2,1,0,Two Year,Credit Card,0
+386,66,39,56.79,1886.39,3,1,0,Month-to-Month,Credit Card,1
+387,63,54,52.69,2503.17,2,0,1,One Year,Credit Card,0
+388,48,55,34.89,2501.15,4,0,1,One Year,Bank Transfer,0
+389,52,24,50.56,1920.29,3,1,1,One Year,Credit Card,0
+390,50,22,107.67,111.64,2,1,0,One Year,Bank Transfer,0
+391,69,69,119.63,5861.82,4,0,0,Two Year,UPI,0
+392,38,56,56.83,7738.08,4,0,0,Two Year,Credit Card,0
+393,49,33,64.86,1871.92,3,1,0,Month-to-Month,Cash,0
+394,40,36,92.21,5338.07,4,1,0,Month-to-Month,Credit Card,0
+395,50,20,108.62,5960.98,1,1,1,Month-to-Month,UPI,1
+396,20,62,79.3,6802.56,2,1,1,Two Year,UPI,1
+397,35,26,59.15,3438.77,2,1,1,One Year,Credit Card,0
+398,42,66,61.26,2493.15,4,0,0,Month-to-Month,UPI,0
+399,59,40,89.56,2669.83,4,1,0,One Year,Bank Transfer,1
+400,48,17,20.32,5729.71,1,1,0,Month-to-Month,Bank Transfer,0
+401,20,1,81.96,6552.56,3,0,1,Month-to-Month,Credit Card,0
+402,57,61,55.55,1534.75,4,0,0,Month-to-Month,Bank Transfer,1
+403,63,43,99.42,3030.43,4,1,0,Month-to-Month,Bank Transfer,1
+404,41,42,29.3,7225.33,4,1,1,Month-to-Month,Cash,0
+405,67,25,78.82,6472.88,4,0,0,One Year,Credit Card,0
+406,49,39,68.1,7880.38,2,1,1,Month-to-Month,UPI,0
+407,64,35,84.23,6058.56,4,1,0,One Year,Credit Card,0
+408,39,3,26.49,3206.24,2,0,0,Two Year,Bank Transfer,0
+409,40,44,78.0,4766.04,4,1,1,Month-to-Month,Cash,0
+410,19,51,76.15,5322.01,3,0,1,One Year,Credit Card,0
+411,44,12,76.07,719.8,1,0,1,Two Year,Credit Card,0
+412,59,19,80.35,4401.53,3,0,1,Two Year,Bank Transfer,0
+413,19,44,87.65,5703.63,4,0,1,Two Year,Bank Transfer,0
+414,43,59,100.5,1421.84,4,1,1,One Year,Credit Card,0
+415,34,49,46.98,6266.99,4,0,0,Month-to-Month,Bank Transfer,0
+416,57,61,102.5,4711.8,3,1,0,Month-to-Month,Bank Transfer,1
+417,50,17,69.83,7622.55,4,1,1,One Year,Bank Transfer,0
+418,26,57,27.71,435.14,3,1,0,Month-to-Month,Bank Transfer,1
+419,60,55,25.86,2196.08,2,1,1,One Year,Bank Transfer,1
+420,65,47,53.42,4852.28,1,1,0,Month-to-Month,Cash,0
+421,56,12,98.49,2442.82,1,0,1,Two Year,Bank Transfer,0
+422,46,62,90.77,5743.95,3,0,0,Month-to-Month,UPI,1
+423,59,8,98.86,6096.14,2,0,0,One Year,Credit Card,0
+424,43,21,71.73,909.88,3,0,0,One Year,Cash,0
+425,52,70,64.02,4159.45,2,1,0,Two Year,Cash,0
+426,67,25,34.75,4120.24,4,0,0,One Year,Bank Transfer,0
+427,42,12,52.82,3017.32,2,1,1,Month-to-Month,Credit Card,1
+428,41,15,63.4,7470.11,2,1,1,Month-to-Month,UPI,1
+429,30,59,28.86,6637.3,2,0,1,Two Year,Bank Transfer,1
+430,24,26,42.06,5607.95,1,0,0,One Year,Credit Card,0
+431,53,26,79.82,5743.18,2,0,1,Two Year,Bank Transfer,0
+432,62,47,93.57,3747.56,4,0,0,Month-to-Month,Bank Transfer,0
+433,37,32,119.83,7375.86,4,1,0,Two Year,Bank Transfer,0
+434,18,10,113.31,5587.3,4,1,0,One Year,Bank Transfer,0
+435,25,16,84.26,5858.95,2,0,1,Two Year,Bank Transfer,0
+436,63,71,62.12,6907.36,3,1,0,One Year,Bank Transfer,0
+437,33,17,83.62,2265.17,3,1,1,One Year,Bank Transfer,0
+438,31,23,98.57,6475.86,4,1,1,Month-to-Month,UPI,0
+439,29,26,31.83,1642.4,1,0,0,Month-to-Month,Cash,0
+440,68,7,60.99,2828.2,3,1,0,Month-to-Month,UPI,0
+441,40,14,103.98,2751.32,2,0,1,One Year,Bank Transfer,0
+442,32,7,58.38,7830.35,3,0,1,Two Year,Bank Transfer,0
+443,45,9,77.19,6866.64,4,1,1,One Year,UPI,1
+444,51,48,78.78,5639.24,1,1,1,Month-to-Month,UPI,1
+445,19,59,38.45,5843.75,3,0,1,Month-to-Month,Cash,1
+446,49,39,56.22,4540.38,3,1,1,Two Year,UPI,0
+447,40,18,53.45,7582.02,4,1,0,Month-to-Month,Cash,0
+448,39,59,22.62,4020.44,1,0,1,Month-to-Month,Bank Transfer,0
+449,68,17,22.42,3106.09,1,0,1,Month-to-Month,Credit Card,0
+450,42,14,103.17,1387.98,4,0,1,Two Year,Credit Card,0
+451,39,31,47.31,6311.02,2,0,1,One Year,Credit Card,1
+452,39,24,71.81,5902.11,3,1,0,Month-to-Month,Credit Card,0
+453,66,60,49.87,3136.4,2,1,0,Two Year,Bank Transfer,1
+454,69,45,114.07,299.03,3,0,1,Month-to-Month,Credit Card,1
+455,59,3,45.93,6728.08,3,0,1,Two Year,UPI,0
+456,23,37,62.97,190.2,2,0,1,Month-to-Month,UPI,0
+457,32,43,107.27,5659.23,4,1,0,Two Year,Credit Card,0
+458,60,40,104.19,7765.03,4,0,0,Month-to-Month,UPI,0
+459,54,55,38.61,3557.52,3,1,0,One Year,Cash,0
+460,50,39,100.26,1956.29,4,0,0,Month-to-Month,Bank Transfer,0
+461,25,15,65.82,5668.48,3,0,0,Two Year,Credit Card,0
+462,61,4,68.3,6555.31,4,0,0,Month-to-Month,Credit Card,0
+463,61,25,33.35,4416.8,3,1,1,One Year,Bank Transfer,0
+464,22,13,28.06,7739.58,4,1,0,Month-to-Month,UPI,0
+465,56,33,92.79,508.18,1,1,0,Two Year,Bank Transfer,0
+466,21,16,69.65,4087.89,2,0,1,Two Year,Bank Transfer,0
+467,23,42,63.69,5775.79,1,1,0,One Year,UPI,0
+468,62,66,92.95,6914.86,2,1,1,Two Year,Bank Transfer,0
+469,49,55,96.55,1516.12,2,0,0,Month-to-Month,UPI,1
+470,69,42,35.89,6420.03,3,0,1,Month-to-Month,UPI,0
+471,47,34,81.02,4466.39,2,1,1,Month-to-Month,Bank Transfer,0
+472,64,30,33.54,3232.77,1,1,1,Two Year,Cash,0
+473,52,13,95.14,1140.55,1,1,1,Month-to-Month,UPI,0
+474,57,13,85.7,6935.84,4,1,1,Month-to-Month,Bank Transfer,0
+475,69,18,115.66,1342.46,1,0,0,Month-to-Month,UPI,0
+476,33,32,26.9,2547.32,4,0,0,One Year,Cash,0
+477,30,39,25.71,2391.36,2,0,1,Two Year,Cash,0
+478,67,46,48.22,6984.17,1,1,1,Two Year,Credit Card,0
+479,59,29,46.17,5414.35,2,1,1,Two Year,UPI,0
+480,47,62,44.7,6393.78,1,0,0,One Year,UPI,0
+481,36,62,110.63,2078.7,1,0,1,Two Year,Bank Transfer,0
+482,34,57,44.95,5036.51,4,1,1,One Year,UPI,1
+483,36,16,47.19,4616.79,2,1,1,One Year,Credit Card,0
+484,45,56,95.94,6679.36,1,0,1,Two Year,Cash,1
+485,43,10,64.97,7258.09,3,0,0,Month-to-Month,Cash,0
+486,54,30,97.67,196.04,2,0,1,Month-to-Month,Credit Card,0
+487,43,25,26.54,5424.76,2,1,1,Two Year,UPI,1
+488,40,5,68.76,509.5,2,1,0,Two Year,UPI,0
+489,26,65,23.36,4435.98,4,1,1,One Year,Credit Card,1
+490,29,49,26.27,2372.3,3,1,1,Two Year,Bank Transfer,0
+491,18,3,110.64,2523.54,2,1,0,One Year,Cash,0
+492,18,45,33.92,2888.37,1,1,0,Two Year,Credit Card,1
+493,64,14,73.24,5008.21,1,0,0,Month-to-Month,Credit Card,0
+494,51,30,61.11,2738.99,4,0,1,Month-to-Month,UPI,1
+495,49,68,54.73,5888.32,1,1,1,Two Year,Cash,0
+496,65,18,109.98,3295.77,2,0,0,One Year,UPI,0
+497,42,62,22.18,639.99,1,1,0,Month-to-Month,Credit Card,0
+498,57,37,86.38,6291.7,2,0,0,One Year,Bank Transfer,1
+499,62,25,116.34,2357.49,1,1,1,Two Year,Cash,0
+500,18,48,76.02,3518.86,3,0,1,Two Year,Credit Card,0
+501,33,65,113.68,5515.01,4,0,0,Month-to-Month,Credit Card,1
+502,56,53,25.23,2726.4,4,1,1,Two Year,Bank Transfer,1
+503,22,15,61.88,547.03,3,1,0,Month-to-Month,Credit Card,0
+504,39,49,46.02,3053.98,3,0,1,One Year,Credit Card,0
+505,46,68,93.08,7561.14,4,0,1,Month-to-Month,Cash,0
+506,20,12,118.13,5169.7,3,1,1,Month-to-Month,Cash,0
+507,29,59,45.65,5404.69,2,0,1,One Year,Cash,0
+508,43,37,85.42,5095.03,1,1,0,Month-to-Month,UPI,0
+509,33,61,39.81,1672.04,4,1,1,Month-to-Month,Bank Transfer,0
+510,68,43,76.53,3404.84,3,0,1,Two Year,Cash,1
+511,54,70,66.39,6032.42,2,1,0,One Year,UPI,1
+512,39,39,117.2,900.85,4,0,1,Month-to-Month,UPI,0
+513,46,56,80.85,2295.04,3,0,0,One Year,Bank Transfer,0
+514,31,63,54.95,2282.92,4,1,0,One Year,Bank Transfer,0
+515,45,46,31.41,3512.95,3,0,1,Month-to-Month,Credit Card,0
+516,22,11,35.12,7844.91,4,1,1,Two Year,UPI,0
+517,64,62,42.53,633.27,2,1,0,One Year,Cash,0
+518,66,25,45.1,4197.74,2,1,0,Month-to-Month,Bank Transfer,0
+519,47,71,105.06,1516.98,1,0,0,One Year,UPI,0
+520,63,52,76.12,7768.34,4,1,1,Two Year,Cash,0
+521,69,4,72.34,995.1,1,0,0,Two Year,UPI,0
+522,22,59,31.48,3288.45,4,1,0,Two Year,Bank Transfer,0
+523,29,20,106.01,5929.29,3,1,0,Month-to-Month,Credit Card,0
+524,33,63,92.28,5665.98,3,1,1,Month-to-Month,UPI,0
+525,43,54,26.77,3439.56,1,0,0,Two Year,Cash,1
+526,43,57,90.78,2837.54,4,0,1,Month-to-Month,Bank Transfer,1
+527,65,41,74.35,3241.14,1,1,1,Two Year,Credit Card,0
+528,38,3,28.17,2187.78,2,1,0,Month-to-Month,Cash,0
+529,56,6,65.83,1722.13,1,0,1,Two Year,Cash,0
+530,53,5,68.47,3916.01,1,0,0,One Year,Cash,0
+531,50,5,36.58,2221.42,3,0,1,Two Year,UPI,0
+532,47,54,114.57,2370.95,1,1,1,Two Year,Bank Transfer,0
+533,54,47,105.0,5288.37,4,0,0,Month-to-Month,Cash,0
+534,40,49,86.9,7751.44,3,1,0,Month-to-Month,UPI,0
+535,27,9,66.23,4868.73,1,0,0,Month-to-Month,Bank Transfer,0
+536,22,20,61.18,708.14,2,1,1,Month-to-Month,Bank Transfer,0
+537,53,61,85.1,697.11,1,1,1,Month-to-Month,UPI,0
+538,51,35,74.54,7616.24,1,1,0,Month-to-Month,UPI,0
+539,69,50,26.23,2448.6,1,0,0,One Year,Cash,0
+540,48,62,71.25,827.33,3,0,1,Two Year,Bank Transfer,0
+541,27,17,100.64,4832.45,4,0,1,Two Year,Credit Card,1
+542,36,3,65.92,5026.83,2,1,1,Two Year,UPI,1
+543,49,32,25.2,5223.19,1,1,0,One Year,Bank Transfer,0
+544,18,13,98.63,2212.48,4,0,1,Two Year,Bank Transfer,0
+545,22,68,40.14,219.37,4,1,0,One Year,Cash,0
+546,62,14,45.86,7723.62,3,1,1,One Year,Credit Card,1
+547,21,11,36.47,2082.06,2,1,1,One Year,Cash,0
+548,33,56,53.02,5440.61,3,0,0,Two Year,Credit Card,0
+549,41,67,95.68,5682.38,4,1,0,One Year,Credit Card,1
+550,33,29,71.94,4919.06,4,0,0,Two Year,UPI,0
+551,19,9,40.49,2571.97,4,0,1,Two Year,Bank Transfer,0
+552,66,67,107.78,2241.66,3,0,1,Month-to-Month,Bank Transfer,0
+553,45,25,107.96,4821.58,2,0,1,Month-to-Month,Bank Transfer,0
+554,49,42,107.06,6942.16,1,0,0,One Year,Credit Card,0
+555,44,9,43.88,7579.2,3,1,1,One Year,Bank Transfer,0
+556,37,40,65.12,936.66,4,0,0,Two Year,UPI,0
+557,41,25,118.5,1323.15,3,0,0,One Year,Credit Card,0
+558,29,5,97.2,7563.42,4,0,0,One Year,Credit Card,1
+559,67,11,22.72,5918.63,1,1,1,Two Year,Credit Card,0
+560,52,59,26.52,7075.65,1,1,1,One Year,Credit Card,0
+561,50,38,66.39,1700.8,2,1,0,One Year,UPI,1
+562,50,5,110.92,4741.93,4,1,1,Two Year,Bank Transfer,1
+563,68,48,73.87,5639.0,2,0,0,Two Year,UPI,0
+564,60,18,69.78,5472.88,2,0,0,Month-to-Month,Bank Transfer,1
+565,54,70,30.55,3324.4,1,1,1,Two Year,UPI,0
+566,29,37,85.68,221.62,3,1,0,Month-to-Month,Cash,1
+567,20,60,102.21,4705.12,3,1,0,One Year,Cash,0
+568,18,48,58.04,2099.5,2,1,1,Two Year,Cash,0
+569,50,28,97.56,3657.01,1,0,0,Two Year,Cash,1
+570,57,69,116.45,7664.89,4,1,0,Two Year,Credit Card,0
+571,27,40,40.38,3252.38,3,1,0,One Year,Credit Card,0
+572,60,45,72.33,6734.43,2,1,0,Month-to-Month,UPI,0
+573,61,62,48.71,1589.47,3,1,0,One Year,UPI,0
+574,46,58,99.29,5412.44,3,1,0,One Year,Cash,0
+575,30,67,77.76,7818.35,4,1,0,Two Year,Bank Transfer,1
+576,29,56,83.46,904.96,1,1,1,Month-to-Month,Cash,0
+577,48,40,99.79,165.73,4,0,1,One Year,UPI,0
+578,63,40,59.6,3525.3,1,0,0,Two Year,Cash,1
+579,19,33,111.51,831.74,3,0,0,One Year,UPI,0
+580,68,6,73.3,6012.24,2,0,1,One Year,Cash,0
+581,67,19,35.8,7324.93,4,0,1,Two Year,Bank Transfer,0
+582,52,40,89.59,3528.77,1,0,1,Two Year,Cash,0
+583,40,59,99.33,2143.82,3,1,1,Month-to-Month,Bank Transfer,0
+584,34,59,51.68,3531.79,1,1,1,One Year,Bank Transfer,1
+585,43,48,105.72,5815.24,1,0,0,Two Year,UPI,0
+586,25,41,110.61,171.53,1,1,1,Two Year,Bank Transfer,0
+587,46,13,47.69,4756.69,3,0,1,Month-to-Month,Credit Card,0
+588,43,45,118.35,4945.0,2,1,1,Month-to-Month,Credit Card,0
+589,27,53,34.07,5137.74,2,1,0,Two Year,Credit Card,0
+590,43,42,40.2,2011.97,2,1,0,Month-to-Month,UPI,0
+591,51,63,38.42,5741.02,1,1,0,Two Year,Credit Card,0
+592,68,27,109.4,821.99,3,1,0,One Year,UPI,1
+593,58,38,85.43,1674.24,1,1,0,Month-to-Month,UPI,0
+594,24,60,35.21,7032.01,2,0,0,One Year,Credit Card,0
+595,21,7,64.03,5935.91,2,0,1,One Year,Bank Transfer,1
+596,67,5,81.53,208.59,3,1,0,One Year,Cash,0
+597,62,45,28.35,2062.17,1,0,0,Two Year,UPI,0
+598,28,58,108.24,1793.81,4,1,1,One Year,Credit Card,0
+599,46,31,100.36,2239.37,4,0,0,One Year,UPI,0
+600,53,23,70.52,2055.72,2,1,1,One Year,Bank Transfer,0
+601,42,42,116.71,593.96,3,0,1,Two Year,Bank Transfer,0
+602,38,10,61.78,3725.63,1,1,0,One Year,Credit Card,0
+603,53,32,118.41,5888.59,1,0,1,One Year,UPI,0
+604,27,53,86.79,4893.18,2,1,1,Month-to-Month,Cash,0
+605,54,30,83.47,5415.69,2,0,1,Two Year,Cash,0
+606,26,39,36.6,741.08,1,1,1,One Year,UPI,1
+607,41,31,108.19,7616.78,1,1,0,Month-to-Month,UPI,1
+608,52,2,62.75,6724.09,2,1,1,Two Year,UPI,1
+609,66,12,36.22,6460.21,1,0,0,Two Year,Credit Card,0
+610,52,39,21.26,6601.57,4,0,1,Two Year,Bank Transfer,0
+611,65,66,75.98,7468.41,2,0,1,Two Year,Cash,0
+612,53,13,72.74,4399.61,1,1,1,Two Year,Credit Card,0
+613,35,46,91.94,1682.23,2,0,0,Two Year,UPI,0
+614,66,27,109.03,4972.59,3,1,0,One Year,UPI,0
+615,56,17,27.94,5968.76,2,0,0,One Year,Bank Transfer,0
+616,49,60,93.15,5929.55,2,0,1,One Year,UPI,0
+617,41,64,38.74,4219.45,3,0,1,One Year,Credit Card,1
+618,40,35,105.82,640.82,4,0,1,Month-to-Month,Credit Card,0
+619,49,70,101.91,3031.79,1,1,1,One Year,Bank Transfer,0
+620,54,30,74.08,7374.06,3,0,0,Two Year,Credit Card,0
+621,29,71,91.02,4717.15,2,0,1,One Year,Cash,0
+622,66,63,51.44,4352.82,1,1,0,One Year,Credit Card,0
+623,30,28,67.12,2223.94,3,1,1,Two Year,Credit Card,0
+624,40,60,102.16,3010.75,1,0,0,One Year,Credit Card,0
+625,42,37,65.93,7173.23,1,0,0,One Year,Cash,1
+626,52,22,55.78,5365.06,3,1,1,One Year,UPI,1
+627,58,68,69.42,6320.36,1,1,1,Month-to-Month,Credit Card,1
+628,47,20,102.82,3689.33,4,1,0,One Year,Bank Transfer,1
+629,34,68,53.52,5078.95,3,0,1,Two Year,Cash,0
+630,66,64,37.38,2062.23,4,0,1,Two Year,Bank Transfer,0
+631,37,17,91.2,5673.14,2,0,0,One Year,Credit Card,0
+632,65,12,102.6,3478.05,1,1,0,One Year,Bank Transfer,0
+633,42,22,30.06,3596.11,2,1,0,One Year,Credit Card,0
+634,39,17,43.99,5229.65,2,1,0,Two Year,Cash,1
+635,30,10,34.2,7496.62,1,0,1,Two Year,Bank Transfer,0
+636,36,65,54.79,605.65,3,1,0,Month-to-Month,Bank Transfer,0
+637,66,22,65.04,6615.47,1,0,0,Month-to-Month,Credit Card,0
+638,53,50,94.88,2409.83,2,1,0,Month-to-Month,Credit Card,1
+639,29,14,85.11,3606.96,2,0,1,Two Year,UPI,0
+640,58,64,82.09,273.12,3,0,0,Month-to-Month,Credit Card,1
+641,36,47,55.24,2478.26,1,1,1,One Year,Credit Card,1
+642,29,29,104.14,4070.79,2,0,0,One Year,UPI,1
+643,26,36,67.13,543.79,4,1,0,Two Year,Credit Card,1
+644,24,52,117.91,3979.66,2,0,1,Month-to-Month,Credit Card,0
+645,45,7,83.41,7424.17,2,1,0,One Year,UPI,0
+646,31,29,32.63,932.61,3,1,0,Two Year,Cash,0
+647,48,11,87.62,6139.08,4,0,1,Month-to-Month,Cash,0
+648,69,33,52.51,3336.4,2,1,0,One Year,Credit Card,0
+649,36,6,88.63,5275.87,2,0,0,Month-to-Month,Credit Card,1
+650,64,32,26.96,2155.87,4,1,0,Two Year,UPI,0
+651,33,51,37.49,1359.99,1,1,0,Month-to-Month,UPI,1
+652,22,58,105.57,1367.65,1,1,1,Two Year,Cash,0
+653,52,26,42.72,656.89,2,1,0,Month-to-Month,Bank Transfer,0
+654,29,46,103.7,1566.61,2,0,1,One Year,Credit Card,1
+655,42,29,47.93,5347.33,1,1,0,Two Year,Bank Transfer,0
+656,69,4,84.29,7065.36,3,1,1,Two Year,Bank Transfer,0
+657,38,13,89.42,6531.59,4,0,0,Two Year,UPI,0
+658,53,39,71.27,5512.56,4,0,1,Month-to-Month,Credit Card,0
+659,40,15,50.53,972.41,3,0,0,Month-to-Month,Credit Card,0
+660,33,29,41.26,2384.58,3,0,1,One Year,UPI,0
+661,56,29,23.32,2547.47,3,0,1,Two Year,Bank Transfer,0
+662,62,32,50.39,2074.66,3,0,0,Two Year,UPI,0
+663,59,2,85.32,4168.54,3,1,1,Month-to-Month,Cash,0
+664,56,47,113.83,4330.88,3,0,0,Month-to-Month,Credit Card,0
+665,31,22,107.12,2919.4,4,1,0,One Year,Cash,0
+666,48,27,96.61,2894.93,3,0,0,One Year,UPI,1
+667,22,67,98.84,6645.59,1,1,0,Month-to-Month,Credit Card,0
+668,52,56,86.5,6335.41,3,1,0,Two Year,Cash,0
+669,40,21,46.03,2531.59,3,1,1,One Year,Cash,0
+670,46,47,110.72,7318.93,4,0,0,Month-to-Month,Bank Transfer,1
+671,60,59,87.07,7627.24,4,0,0,Month-to-Month,Credit Card,0
+672,28,6,76.04,2681.27,3,0,0,Two Year,Cash,0
+673,35,19,31.1,2899.96,4,0,0,Month-to-Month,Cash,0
+674,64,57,64.71,4094.51,2,1,0,Month-to-Month,Bank Transfer,0
+675,29,69,66.04,7534.85,4,0,0,One Year,Cash,0
+676,26,3,106.46,7022.92,4,1,1,Month-to-Month,Cash,0
+677,27,1,74.66,910.29,4,1,1,Month-to-Month,Cash,0
+678,61,58,58.04,3202.57,4,0,0,One Year,Bank Transfer,1
+679,34,38,117.68,4471.63,1,0,1,Two Year,Cash,0
+680,55,15,31.07,4074.75,1,0,0,Two Year,Cash,0
+681,24,34,62.25,1631.52,1,1,0,One Year,Credit Card,0
+682,63,61,24.2,6884.65,3,0,0,One Year,Credit Card,1
+683,30,35,93.99,5447.83,3,1,0,Two Year,Bank Transfer,1
+684,57,64,111.81,6719.48,2,0,0,Two Year,UPI,0
+685,59,25,48.0,6884.24,1,1,1,Two Year,Credit Card,0
+686,26,24,105.83,6012.01,3,0,1,Two Year,Bank Transfer,0
+687,67,12,49.22,3569.76,4,0,1,Two Year,Cash,0
+688,44,18,111.08,4923.32,4,1,1,One Year,Cash,0
+689,19,15,95.4,1366.89,1,0,0,Month-to-Month,Bank Transfer,0
+690,22,27,100.49,5421.8,2,0,1,Two Year,Cash,0
+691,46,60,21.8,1516.1,2,0,0,Two Year,Cash,0
+692,54,46,116.28,5582.2,4,0,1,Month-to-Month,UPI,0
+693,55,17,92.67,1913.83,2,0,1,Month-to-Month,Cash,0
+694,36,53,50.48,1028.66,1,0,1,Month-to-Month,Credit Card,0
+695,25,8,102.94,1405.75,4,0,1,Month-to-Month,Cash,0
+696,65,27,48.15,115.74,3,1,0,Month-to-Month,Bank Transfer,0
+697,62,46,107.28,5778.04,3,1,1,Month-to-Month,UPI,0
+698,18,50,31.26,5885.97,2,0,1,One Year,Cash,0
+699,39,71,90.37,4167.97,4,0,0,Month-to-Month,Bank Transfer,0
+700,69,3,74.07,1374.77,4,0,0,Month-to-Month,Credit Card,0
+701,34,64,29.65,760.08,3,1,1,One Year,Cash,0
+702,24,44,44.19,251.12,4,1,0,Month-to-Month,UPI,0
+703,42,53,21.24,1409.41,4,0,0,Two Year,Cash,0
+704,62,24,66.88,7137.76,4,1,0,Two Year,Bank Transfer,1
+705,21,60,50.13,2008.14,2,0,1,Month-to-Month,UPI,0
+706,53,3,79.84,2898.74,4,0,0,One Year,Cash,1
+707,23,20,49.72,932.23,1,0,1,Two Year,Credit Card,0
+708,48,46,49.99,1856.65,2,0,1,One Year,UPI,1
+709,36,15,94.32,4201.87,4,1,1,Two Year,Credit Card,0
+710,61,25,24.81,4901.25,4,1,1,Month-to-Month,Bank Transfer,0
+711,56,71,110.29,2038.28,1,0,0,One Year,Cash,0
+712,44,17,105.23,556.08,2,1,1,One Year,Credit Card,0
+713,27,9,86.78,3189.16,3,1,0,One Year,Bank Transfer,1
+714,43,38,79.32,1950.21,3,0,1,Two Year,Cash,1
+715,36,48,109.23,1834.48,2,1,0,Two Year,Bank Transfer,0
+716,56,60,38.53,7682.92,4,0,1,Two Year,Credit Card,0
+717,20,63,27.9,4968.77,4,0,0,Month-to-Month,Bank Transfer,0
+718,62,2,43.95,4499.34,3,0,1,Two Year,UPI,1
+719,30,11,99.46,3384.62,3,0,1,Month-to-Month,Cash,0
+720,67,64,23.47,3488.66,3,1,0,One Year,Bank Transfer,0
+721,45,21,78.28,4373.15,1,0,1,One Year,Credit Card,0
+722,37,18,119.54,5601.8,3,1,1,Month-to-Month,Cash,1
+723,45,64,105.57,5646.95,1,0,1,Two Year,UPI,0
+724,25,38,72.14,1456.38,2,0,0,Month-to-Month,Cash,1
+725,58,32,26.36,4050.89,4,1,1,One Year,UPI,1
+726,56,11,103.14,3354.47,3,0,1,One Year,Cash,0
+727,18,45,79.9,6977.16,4,1,0,Month-to-Month,Bank Transfer,0
+728,20,33,31.49,5088.21,4,1,0,Two Year,Bank Transfer,1
+729,30,41,29.39,4306.78,3,0,0,Two Year,Credit Card,0
+730,45,8,110.96,1011.62,3,0,0,Month-to-Month,UPI,1
+731,66,11,86.92,4884.54,2,0,0,Month-to-Month,Credit Card,0
+732,42,51,102.93,1025.91,1,0,1,Two Year,Bank Transfer,0
+733,50,41,107.9,2763.93,1,0,1,One Year,UPI,1
+734,55,17,77.18,1228.45,4,0,1,Month-to-Month,Credit Card,0
+735,23,46,71.74,5567.38,3,1,0,Two Year,Credit Card,0
+736,61,32,63.04,1729.39,2,1,1,Two Year,Credit Card,1
+737,62,54,51.69,3195.69,2,0,0,One Year,Credit Card,0
+738,49,20,63.46,7175.83,2,1,0,One Year,Credit Card,0
+739,62,33,97.39,1714.1,2,1,1,One Year,UPI,0
+740,64,40,80.19,4111.66,2,0,0,One Year,Credit Card,1
+741,38,32,109.25,3412.25,1,0,0,One Year,UPI,1
+742,33,2,64.34,243.18,1,1,1,Month-to-Month,Credit Card,0
+743,38,33,80.71,6362.79,1,0,0,Two Year,Bank Transfer,1
+744,28,30,83.13,645.46,3,1,0,Month-to-Month,Bank Transfer,1
+745,54,33,79.17,3846.61,4,0,1,Month-to-Month,Credit Card,0
+746,53,26,90.26,4529.36,2,1,0,Month-to-Month,Cash,0
+747,52,22,43.74,5064.57,3,1,0,Month-to-Month,Bank Transfer,0
+748,36,66,71.24,5540.19,2,1,1,Month-to-Month,UPI,0
+749,37,38,30.42,2100.85,1,1,1,One Year,Credit Card,0
+750,35,46,58.45,178.83,3,0,1,One Year,UPI,1
+751,64,15,68.77,5815.2,1,0,1,Two Year,Cash,0
+752,58,44,85.22,4331.69,2,1,0,Month-to-Month,Credit Card,0
+753,66,49,115.05,6705.33,2,1,0,Two Year,Bank Transfer,0
+754,31,61,80.07,6588.97,4,0,1,One Year,UPI,0
+755,32,67,94.36,6762.28,2,0,0,One Year,Bank Transfer,0
+756,48,6,70.63,3932.25,1,1,0,One Year,Bank Transfer,0
+757,18,9,83.41,2735.66,2,1,1,Month-to-Month,Credit Card,0
+758,20,6,27.09,6353.31,4,1,1,Month-to-Month,UPI,0
+759,33,32,45.44,3665.22,4,1,0,One Year,Cash,1
+760,40,41,56.19,1549.19,1,1,1,Two Year,Bank Transfer,0
+761,28,8,67.25,6854.29,3,0,1,Two Year,Credit Card,0
+762,29,50,24.56,7072.22,2,1,1,One Year,Credit Card,0
+763,27,62,34.0,3783.85,4,0,0,Two Year,Cash,0
+764,49,62,47.68,698.03,2,0,1,One Year,Credit Card,0
+765,33,7,117.15,3163.83,2,0,0,Two Year,Bank Transfer,0
+766,25,4,53.13,6447.95,3,1,0,One Year,Credit Card,1
+767,55,6,68.2,7224.01,4,0,0,Two Year,UPI,0
+768,29,58,39.61,1707.43,2,0,1,Month-to-Month,UPI,0
+769,41,22,81.08,629.09,4,0,1,One Year,Bank Transfer,1
+770,45,26,48.07,7031.07,1,0,1,One Year,UPI,1
+771,25,3,40.7,3176.3,1,1,1,Two Year,Cash,0
+772,45,41,71.66,4379.91,2,1,1,One Year,Credit Card,1
+773,53,60,20.55,7747.72,4,0,0,One Year,Bank Transfer,0
+774,43,14,20.77,625.86,2,0,0,One Year,Cash,0
+775,25,12,41.91,5221.71,4,1,0,Month-to-Month,Credit Card,1
+776,67,12,23.67,685.43,4,1,1,Month-to-Month,Cash,0
+777,45,13,30.8,3066.2,3,1,0,Two Year,Bank Transfer,0
+778,45,25,53.89,6450.13,3,0,0,Month-to-Month,Bank Transfer,0
+779,54,45,100.26,3524.43,3,1,1,Two Year,Cash,0
+780,58,19,77.2,7977.74,2,0,1,Month-to-Month,Credit Card,0
+781,53,55,71.27,4516.57,3,0,0,Two Year,UPI,0
+782,44,45,49.35,2637.18,3,1,0,Month-to-Month,UPI,1
+783,34,8,113.18,1838.88,1,0,1,Month-to-Month,Cash,1
+784,26,53,59.7,2869.11,4,1,1,Two Year,Bank Transfer,1
+785,50,55,28.71,3043.01,4,0,1,One Year,Credit Card,0
+786,37,32,81.71,642.84,3,1,1,One Year,Credit Card,0
+787,30,51,31.38,3019.64,4,0,0,Month-to-Month,Bank Transfer,1
+788,45,44,54.52,3767.48,1,0,0,Two Year,UPI,1
+789,65,70,70.74,5809.63,1,1,1,One Year,Credit Card,0
+790,46,18,107.42,5288.16,3,1,0,Two Year,Cash,0
+791,30,22,69.35,5699.25,1,1,0,One Year,UPI,0
+792,63,37,90.23,166.07,4,1,1,Two Year,Cash,0
+793,52,56,119.28,1819.57,2,0,0,Month-to-Month,UPI,0
+794,23,59,33.15,5327.31,4,1,0,Two Year,Bank Transfer,1
+795,35,3,47.47,3923.52,2,1,0,One Year,Cash,0
+796,68,28,59.46,141.98,3,0,1,Month-to-Month,Cash,0
+797,22,35,62.18,6455.51,2,1,1,Two Year,Bank Transfer,0
+798,64,61,61.1,6205.2,1,1,0,One Year,Cash,0
+799,42,54,110.76,4432.51,4,0,1,Month-to-Month,UPI,0
+800,19,63,91.4,625.06,2,1,1,Two Year,Credit Card,0
+801,27,7,80.79,6155.47,4,1,1,One Year,Credit Card,0
+802,47,49,50.94,4711.34,3,1,0,Two Year,Bank Transfer,0
+803,67,31,102.38,6277.48,3,1,0,Two Year,UPI,0
+804,62,58,115.51,6038.8,1,1,1,Month-to-Month,Cash,0
+805,22,61,102.12,6443.72,3,1,0,Month-to-Month,Cash,0
+806,50,24,20.16,4192.26,2,0,0,One Year,Credit Card,1
+807,18,20,83.64,1208.56,3,1,0,Month-to-Month,Cash,0
+808,35,37,25.11,5402.14,1,0,0,One Year,Credit Card,1
+809,49,4,45.76,5001.74,4,0,0,Two Year,Bank Transfer,0
+810,64,20,25.95,5963.8,4,0,1,Two Year,Cash,1
+811,66,60,80.38,1442.06,3,0,0,One Year,UPI,1
+812,28,24,88.66,1640.3,2,1,0,Two Year,Cash,0
+813,38,50,31.45,7134.24,1,1,0,Month-to-Month,Credit Card,0
+814,43,49,58.38,6024.82,2,1,1,Two Year,Bank Transfer,0
+815,42,51,65.62,7275.01,1,0,1,Month-to-Month,Credit Card,1
+816,39,36,56.91,6093.85,3,1,1,One Year,Cash,0
+817,44,66,32.1,4817.53,1,1,0,One Year,Credit Card,0
+818,66,34,61.89,5267.65,1,1,1,Two Year,Credit Card,0
+819,30,36,95.12,7124.11,3,0,1,Two Year,Bank Transfer,1
+820,50,6,27.1,4672.57,2,0,1,Month-to-Month,UPI,0
+821,51,39,28.02,5095.89,3,1,1,Month-to-Month,Cash,0
+822,58,42,55.48,1336.17,1,0,0,Two Year,Bank Transfer,0
+823,52,58,114.17,3843.98,3,0,1,Two Year,UPI,0
+824,18,12,86.86,5759.54,1,1,1,One Year,Credit Card,0
+825,38,3,87.87,2240.45,3,0,0,One Year,UPI,0
+826,65,18,56.19,1697.81,4,0,0,One Year,Credit Card,0
+827,23,40,79.37,2579.23,4,1,1,Two Year,Credit Card,1
+828,45,21,21.01,2007.85,3,0,0,Two Year,Bank Transfer,0
+829,34,15,83.61,1797.81,2,0,1,Two Year,Credit Card,0
+830,22,26,111.33,3456.32,1,0,0,One Year,Bank Transfer,0
+831,48,8,81.26,7271.92,4,0,0,Two Year,UPI,0
+832,22,42,107.37,4105.77,2,0,1,Month-to-Month,UPI,0
+833,55,44,92.4,1584.57,1,0,0,Two Year,Credit Card,0
+834,20,14,32.06,708.08,4,0,1,Two Year,Bank Transfer,0
+835,40,2,110.25,5599.63,4,0,0,Two Year,Credit Card,0
+836,54,37,26.64,3124.11,3,1,1,Two Year,Bank Transfer,0
+837,54,69,73.4,6592.46,1,1,0,Two Year,Bank Transfer,1
+838,27,38,34.21,5310.14,2,1,0,Month-to-Month,Bank Transfer,0
+839,27,41,21.17,6390.31,2,1,0,Month-to-Month,UPI,1
+840,36,62,62.2,2248.37,2,0,0,Two Year,Bank Transfer,0
+841,34,60,49.5,5569.64,1,1,0,One Year,UPI,0
+842,38,14,68.6,2186.09,2,1,1,Two Year,Bank Transfer,0
+843,31,2,77.72,7518.64,2,0,0,Two Year,UPI,1
+844,26,70,24.37,5127.36,2,0,1,Two Year,Cash,0
+845,63,17,32.3,2663.64,3,0,1,One Year,UPI,0
+846,18,28,75.86,2229.14,3,0,1,One Year,UPI,0
+847,68,66,54.32,1608.32,1,0,0,One Year,Credit Card,0
+848,62,35,92.92,5587.66,1,1,1,Month-to-Month,Bank Transfer,0
+849,30,5,85.23,1827.85,2,0,0,One Year,Cash,0
+850,21,65,104.56,4802.9,3,1,1,Month-to-Month,Credit Card,0
+851,18,40,89.25,2190.62,4,1,1,Month-to-Month,Bank Transfer,1
+852,66,56,62.99,5329.55,4,0,1,One Year,Cash,0
+853,57,36,87.3,6538.02,2,1,1,One Year,Cash,0
+854,49,45,47.54,6246.4,2,1,1,One Year,Cash,0
+855,51,23,50.63,6110.73,3,0,0,Month-to-Month,Bank Transfer,1
+856,45,47,98.9,1583.01,3,1,1,Two Year,Cash,1
+857,48,31,64.64,798.24,3,1,1,One Year,Cash,1
+858,25,11,99.84,5621.7,1,1,0,One Year,Credit Card,0
+859,56,10,102.24,3009.94,1,0,0,One Year,UPI,1
+860,43,67,105.76,3515.54,2,0,0,Month-to-Month,Bank Transfer,0
+861,51,14,111.66,346.08,1,0,1,Month-to-Month,UPI,0
+862,20,10,63.1,2150.65,3,1,1,Two Year,Credit Card,0
+863,67,1,51.89,366.04,3,0,1,One Year,UPI,0
+864,29,5,78.22,7045.57,1,1,1,Month-to-Month,Cash,1
+865,18,20,57.12,2022.83,4,0,1,Two Year,Cash,0
+866,61,8,80.11,4502.96,2,1,1,One Year,Bank Transfer,0
+867,22,43,90.56,407.94,4,0,0,Month-to-Month,Bank Transfer,1
+868,47,1,88.84,5368.09,2,0,0,One Year,Bank Transfer,1
+869,47,57,57.46,2651.92,4,1,1,One Year,Credit Card,0
+870,34,64,36.69,7193.56,1,0,1,Month-to-Month,Bank Transfer,0
+871,65,28,63.05,7116.13,2,1,1,Month-to-Month,Credit Card,1
+872,64,37,34.26,2669.8,2,0,1,Month-to-Month,Cash,0
+873,40,47,109.01,7217.59,2,0,1,One Year,UPI,0
+874,32,37,54.59,7969.65,3,1,0,One Year,Cash,0
+875,54,49,35.45,6620.78,3,1,0,Two Year,Cash,0
+876,38,44,22.54,6774.48,4,1,1,One Year,Cash,1
+877,31,56,84.58,2067.17,1,0,0,Month-to-Month,Bank Transfer,0
+878,19,28,83.69,4655.95,3,1,1,One Year,Bank Transfer,0
+879,28,6,54.06,631.32,2,0,1,Two Year,Bank Transfer,0
+880,68,61,27.17,849.85,3,1,1,Two Year,UPI,0
+881,56,20,60.96,7991.25,1,1,0,Month-to-Month,Bank Transfer,0
+882,55,2,51.12,2680.45,3,1,0,Month-to-Month,Credit Card,0
+883,51,37,87.71,6010.65,2,1,1,Two Year,Cash,0
+884,55,20,80.58,6472.65,4,1,0,Two Year,UPI,0
+885,67,26,56.46,6878.38,2,1,0,Two Year,UPI,0
+886,51,29,41.79,7981.26,1,0,1,Month-to-Month,UPI,0
+887,35,1,118.8,2007.82,4,1,0,Two Year,UPI,0
+888,47,35,65.4,418.77,3,0,0,Two Year,UPI,0
+889,32,70,88.83,3348.41,3,1,1,Month-to-Month,Credit Card,1
+890,44,59,34.06,1127.64,3,1,1,One Year,Cash,0
+891,68,69,68.56,277.16,4,1,0,One Year,UPI,0
+892,51,33,22.75,2947.37,2,0,1,Two Year,Cash,0
+893,69,51,70.55,6291.53,4,0,0,One Year,Bank Transfer,1
+894,55,12,116.4,4572.83,4,1,1,One Year,UPI,0
+895,50,20,58.42,2570.95,1,0,1,One Year,UPI,1
+896,41,53,23.9,5269.3,4,1,1,One Year,Cash,0
+897,32,43,23.1,1932.94,3,1,1,Two Year,UPI,1
+898,47,50,58.8,213.61,2,0,0,One Year,UPI,1
+899,59,29,36.0,6138.39,2,0,1,One Year,UPI,0
+900,68,57,22.34,5027.57,2,0,1,Month-to-Month,Credit Card,0
+901,34,39,95.62,6122.19,3,0,1,Two Year,Credit Card,0
+902,22,56,65.85,407.61,3,1,0,Month-to-Month,UPI,0
+903,46,43,48.92,6713.25,3,0,0,Month-to-Month,Credit Card,0
+904,21,50,110.01,4994.26,3,0,1,Two Year,Bank Transfer,0
+905,27,23,31.61,4550.82,3,1,1,One Year,UPI,0
+906,34,44,115.59,5034.45,4,0,1,Month-to-Month,Bank Transfer,0
+907,27,38,51.4,6929.02,3,0,1,Two Year,Cash,0
+908,34,23,108.84,4736.8,3,0,1,One Year,Bank Transfer,0
+909,37,45,80.29,4689.51,3,0,1,Two Year,Cash,0
+910,41,52,102.67,7926.37,3,1,0,Month-to-Month,UPI,1
+911,22,50,118.4,6078.17,2,1,1,One Year,Cash,0
+912,51,8,48.84,3594.12,3,0,1,One Year,Cash,1
+913,23,1,116.11,5688.44,4,0,1,Two Year,Bank Transfer,0
+914,19,8,58.95,3174.92,4,1,1,One Year,Bank Transfer,0
+915,30,29,58.55,1908.12,4,0,1,Month-to-Month,Bank Transfer,0
+916,60,5,54.04,4815.13,1,0,1,Month-to-Month,UPI,0
+917,60,47,74.14,7432.64,2,0,0,Month-to-Month,UPI,1
+918,65,34,35.41,7440.2,3,0,0,Two Year,Bank Transfer,0
+919,28,65,75.37,2801.05,1,0,0,One Year,UPI,0
+920,68,55,74.17,4268.65,3,0,0,One Year,UPI,1
+921,64,43,96.19,1771.92,1,0,0,One Year,Cash,0
+922,40,30,103.36,7965.49,1,0,0,Month-to-Month,Cash,1
+923,33,17,64.04,7850.83,4,0,1,One Year,Bank Transfer,1
+924,48,26,50.23,5231.12,4,1,1,Month-to-Month,UPI,0
+925,28,8,45.93,6454.87,1,1,1,One Year,Cash,0
+926,33,47,39.46,5749.29,4,1,1,Month-to-Month,Credit Card,0
+927,25,46,25.76,4785.95,1,0,1,One Year,UPI,0
+928,21,68,54.24,521.45,2,0,1,Two Year,Credit Card,0
+929,57,33,47.02,3692.64,4,1,0,Two Year,Bank Transfer,1
+930,21,1,116.64,5430.81,4,0,1,Month-to-Month,UPI,0
+931,42,19,75.77,5452.5,4,1,0,Month-to-Month,Bank Transfer,0
+932,20,31,54.73,3047.67,2,0,0,One Year,Bank Transfer,0
+933,49,14,78.05,7539.37,1,1,1,One Year,Bank Transfer,0
+934,20,53,33.92,1422.12,3,1,1,Two Year,Bank Transfer,0
+935,44,48,64.4,4052.84,4,1,1,One Year,Bank Transfer,1
+936,46,69,82.62,5557.98,1,0,1,Month-to-Month,UPI,0
+937,49,62,68.89,5607.37,2,1,1,Month-to-Month,Credit Card,0
+938,67,66,60.18,5224.25,3,0,1,Month-to-Month,UPI,0
+939,68,64,119.38,2274.78,4,0,1,Month-to-Month,UPI,0
+940,36,70,108.03,1334.03,2,0,0,Month-to-Month,UPI,0
+941,38,63,82.34,5123.93,2,0,1,Two Year,Cash,1
+942,22,33,76.94,4834.49,3,0,1,Two Year,Cash,0
+943,35,41,82.07,1516.91,1,0,0,Month-to-Month,UPI,1
+944,45,48,40.13,5670.6,4,0,1,One Year,Credit Card,0
+945,59,13,59.51,3695.86,4,1,1,Month-to-Month,UPI,0
+946,39,31,23.95,5375.31,1,1,0,Two Year,Bank Transfer,1
+947,38,68,67.55,6715.2,1,1,1,Month-to-Month,Cash,0
+948,23,4,74.3,1440.85,1,0,1,Two Year,Cash,0
+949,18,19,42.77,251.24,3,0,1,Two Year,UPI,0
+950,22,70,116.4,6254.91,3,0,1,Month-to-Month,UPI,1
+951,58,13,110.95,4916.61,4,0,1,Month-to-Month,Credit Card,1
+952,29,23,92.21,5627.15,3,1,1,One Year,Credit Card,0
+953,43,1,73.34,6721.42,2,0,0,Two Year,Bank Transfer,0
+954,63,54,107.0,6442.21,4,1,1,One Year,UPI,1
+955,51,71,33.07,7691.27,3,0,1,Month-to-Month,UPI,0
+956,66,15,99.05,4333.89,1,1,0,Two Year,UPI,1
+957,31,65,32.48,3959.12,2,0,0,One Year,Cash,0
+958,43,71,99.42,3274.91,1,1,1,One Year,Bank Transfer,1
+959,62,15,47.58,1314.16,4,0,0,One Year,Credit Card,0
+960,44,21,107.71,4623.6,1,1,1,Month-to-Month,Cash,1
+961,26,19,114.4,2288.4,3,0,1,Month-to-Month,Cash,0
+962,43,60,34.88,7378.33,3,1,0,Month-to-Month,Cash,0
+963,64,33,66.27,4707.21,4,1,1,Two Year,Cash,0
+964,39,49,118.1,4783.44,1,0,1,Month-to-Month,Bank Transfer,0
+965,64,35,68.34,2903.9,4,1,0,Two Year,UPI,0
+966,47,44,106.35,510.72,1,0,0,One Year,Credit Card,0
+967,60,11,78.87,350.78,2,0,0,One Year,Credit Card,1
+968,65,66,57.53,3444.35,3,0,0,Month-to-Month,Cash,0
+969,34,46,48.58,768.07,4,1,1,One Year,Cash,0
+970,43,9,40.32,4894.09,2,1,0,Month-to-Month,Bank Transfer,0
+971,53,3,96.18,7059.69,2,0,0,Two Year,Cash,0
+972,18,26,58.65,7075.03,4,0,0,One Year,Credit Card,0
+973,25,48,71.13,5306.46,4,1,0,Month-to-Month,Credit Card,0
+974,66,66,69.23,1768.73,2,1,0,One Year,UPI,1
+975,52,70,77.73,6917.67,1,1,1,One Year,UPI,0
+976,69,28,106.56,7100.14,2,0,0,Month-to-Month,Credit Card,0
+977,32,26,118.07,1653.56,4,0,1,One Year,Credit Card,0
+978,64,25,60.76,5925.67,2,0,0,One Year,Bank Transfer,0
+979,39,12,102.75,2363.5,1,0,0,One Year,Bank Transfer,0
+980,31,5,96.45,6440.86,3,0,0,One Year,Credit Card,0
+981,43,48,77.35,7978.18,3,1,0,Two Year,Cash,0
+982,45,37,115.6,337.21,2,0,0,One Year,UPI,1
+983,40,44,40.05,7189.19,1,1,0,One Year,Credit Card,0
+984,31,15,30.93,5018.78,3,1,0,Month-to-Month,Cash,0
+985,41,43,105.4,7789.72,2,0,0,Two Year,Credit Card,0
+986,19,48,63.91,3773.58,2,1,1,Month-to-Month,UPI,0
+987,62,70,104.7,6794.36,1,0,0,Month-to-Month,UPI,0
+988,43,46,109.31,592.91,4,1,1,Month-to-Month,Bank Transfer,1
+989,31,43,26.25,2748.7,2,0,0,Two Year,Bank Transfer,0
+990,68,21,108.35,629.43,4,0,1,Month-to-Month,Bank Transfer,1
+991,24,23,64.83,7805.21,4,1,0,Month-to-Month,Bank Transfer,1
+992,20,47,71.04,6554.09,3,0,0,Month-to-Month,UPI,0
+993,64,15,82.66,6835.12,4,1,0,One Year,Cash,1
+994,40,25,112.64,7509.93,1,0,1,Month-to-Month,Cash,0
+995,63,36,21.91,772.32,3,0,1,Two Year,Cash,0
+996,60,51,67.68,3146.22,3,0,1,Two Year,Credit Card,1
+997,64,15,88.77,661.18,3,1,1,One Year,Bank Transfer,0
+998,62,68,92.27,1765.27,2,1,0,Two Year,Bank Transfer,0
+999,35,21,89.25,1911.99,2,0,0,Two Year,UPI,0
+1000,55,13,33.44,3805.95,4,1,0,One Year,UPI,0
